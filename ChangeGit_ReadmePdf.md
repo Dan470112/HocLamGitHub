@@ -1,4 +1,5 @@
 Readme.md (Cách cài Git trên Windows)
+**_download Git_**  **chọn các thành phần để cài đặt**  **chọn soan thạo văn bản**. **chọn môi trường cho biến PATH**. **kết nối HPPTS**
 1. Đầu tiên Bạn phải _download_ phần cài đặt tại URL sau(chỉ với Windows):
 [Visit Git Website](https://git-scm.com/download/win) 
 Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về License bạn có thể đọc qua và tiếp tục bấm Next. 
@@ -10,7 +11,7 @@ Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về 
 4. Màn hình kế tiếp là **chọn môi trường cho biến PATH** như sau:
 ![AdjustingPath](https://github.com/Dan470112/HocLamGitHub/blob/main/AdjustingPath.png)
 Biến này giữ danh sách thư mục nơi mà chương trình được định vị. Mục đích để bạn không cần gõ con đường đầy đủ khi chạy chương trình tại console, bạn chỉ cần gõ tên chương trình là đủ.
-5. Màn hình kế tiếp liên quan đến kết nối HPPTS:
+5. Màn hình kế tiếp liên quan đến **kết nối HPPTS**:
 https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image4.png
 Bạn sẽ phải chọn thư viện nào để sử dụng khi gửi số liệu với HTTPS bởi vì bạn phải kết nối với Server từ xa để chia xẻ commit của bạn với người khác, vì vậy tất cả các nối đó phải được mã hóa để đảm bảo an toàn cho số liệu của bạn không bị mất cắp.
  6. Bước kế tiếp là cách đối phó với kết thúc dòng văn bản.
