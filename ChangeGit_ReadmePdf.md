@@ -3,13 +3,14 @@ Readme.md (Cách cài Git trên Windows)
 [Visit Git Website](https://git-scm.com/download/win)
 
 Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về License bạn có thể đọc qua và tiếp tục bấm Next. 
+
 2. Bạn sẽ đi dến màn hình **chọn các thành phần để cài đặt: Nên chọn default của màn hình.**
 
 ![image1](https://github.com/Dan470112/HocLamGitHub/blob/main/image1.png?raw=true)
 
-
 3. Kê tiếp **chọn cài đặt chương trình soan thạo văn bản**
-   Bạn cũng có thể cài đặt chương trình sọan thảo khác ngoài vim default (nếu muốn).
+Bạn cũng có thể cài đặt chương trình sọan thảo khác ngoài vim default (nếu muốn).
+
 ![image2](https://github.com/Dan470112/HocLamGitHub/blob/main/image2.png?raw=true)
 
 4. Màn hình kế tiếp là **chọn môi trường cho biến PATH** như sau:
@@ -17,18 +18,21 @@ Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về 
 ![image3](https://github.com/Dan470112/HocLamGitHub/blob/main/image3.png?raw=true)
 
 Biến này giữ danh sách thư mục nơi mà chương trình được định vị. Mục đích để bạn không cần gõ con đường đầy đủ khi chạy chương trình tại console, bạn chỉ cần gõ tên chương trình là đủ.
+
 5. Màn hình kế tiếp liên quan đến kết nối HPPTS:
 
 ![image4](https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image4.png?raw=true)
 
 Bạn sẽ phải chọn thư viện nào để sử dụng khi gửi số liệu với HTTPS bởi vì bạn phải kết nối với Server từ xa để chia xẻ commit của bạn với người khác, vì vậy tất cả các nối đó phải được mã hóa để đảm bảo an toàn cho số liệu của bạn không bị mất cắp.
- 6. Bước kế tiếp là cách đối phó với kết thúc dòng văn bản.
+
+6. Bước kế tiếp là cách đối phó với kết thúc dòng văn bản.
 
 ![image5](https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image5.png?raw=true)
 
 Với các hệ điều hành khác nhau có cách xử lý kết thúc dòng văn bản khác nhau, do đó Git phải xử lý việc này trước khi chia xẻ các commits.
 Lưu ý:
 WINDOWS và MACOS sử dụng ‘\r\n’ cho kết thúc dòng. Còn LINUX chỉ dùng ‘\n’ cho kết thúc dòng mà thôi.
+
 7. Bước kế tiếp là chọn cách giả lập Terminal default (hay console)
 
 ![image6](https://github.com/PhamQuocThang/HocLamGitHub/blob/main/image6.png?raw=true)
