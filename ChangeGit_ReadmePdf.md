@@ -12,15 +12,21 @@ Chạy chương trình cài đặt. Màn hình đầu tiên là màn hình về 
 ![AdjustingPath](https://github.com/Dan470112/HocLamGitHub/blob/EditGitWindows/AdjustingPath.png)
 Biến này giữ danh sách thư mục nơi mà chương trình được định vị. Mục đích để bạn không cần gõ con đường đầy đủ khi chạy chương trình tại console, bạn chỉ cần gõ tên chương trình là đủ.
 5. Màn hình kế tiếp liên quan đến **kết nối HPPTS**:
+
 ![HttpsConnect](https://github.com/Dan470112/HocLamGitHub/blob/EditGitWindows/HttpsConnect.png)
+
 Bạn sẽ phải chọn thư viện nào để sử dụng khi gửi số liệu với HTTPS bởi vì bạn phải kết nối với Server từ xa để chia xẻ commit của bạn với người khác, vì vậy tất cả các nối đó phải được mã hóa để đảm bảo an toàn cho số liệu của bạn không bị mất cắp.
  6. Bước kế tiếp là cách đối phó với kết thúc dòng văn bản.
+ 
 ![LineEnding](https://github.com/Dan470112/HocLamGitHub/blob/EditGitWindows/LineEnding.png)
+
 Với các hệ điều hành khác nhau có cách xử lý kết thúc dòng văn bản khác nhau, do đó Git phải xử lý việc này trước khi chia xẻ các commits.
 Lưu ý:
 WINDOWS và MACOS sử dụng ‘\r\n’ cho kết thúc dòng. Còn LINUX chỉ dùng ‘\n’ cho kết thúc dòng mà thôi.
 7. Bước kế tiếp là chọn cách giả lập Terminal default (hay console)
+
 ![DefaultTerminal](https://github.com/Dan470112/HocLamGitHub/blob/EditGitWindows/DefaultTerminal.png)
+
 Git Bash cần bộ giả lập console để làm việc, cho nên bạn cần phải chọn hoặc là MinTTY hay console của Windows.
 Nên chọn default bởi vì không những MinTTY có thể làm mọi thứ mà console của Windows có thể làm mà còn làm tốt hơn nữa.
    
