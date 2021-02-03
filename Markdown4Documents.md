@@ -11,6 +11,6 @@ More Information? [Markdown Website]
 An example of [inline link](http://example.com "Example").  
 [This link](http://example.net/) has no title attribute.
 
-This is [an example][id] reference-style link.
+This is [an example][id] of a reference-style link.
 
 [id]: http://example.com/  "Optional Title Here"
