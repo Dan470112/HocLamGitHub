@@ -22,3 +22,5 @@ This is [an example][id] of a reference-style link.
 >> Nested blockquote.
 
 Type `echo 'Hello World'` in your terminal. `Another phrase`
+
+![Git clone](/Downloads/Git&GitHub/GWF-Clone.jpeg "From Remote to Local")
