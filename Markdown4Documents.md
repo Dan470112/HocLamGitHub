@@ -20,3 +20,5 @@ This is [an example][id] of a reference-style link.
 
 > First level of the quote.  
 >> Nested blockquote.
+
+Type `echo 'Hello World'` in your terminal
