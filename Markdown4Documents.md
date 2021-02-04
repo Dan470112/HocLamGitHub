@@ -26,6 +26,7 @@ Type `echo 'Hello World'` in your terminal. `Another phrase`
 ![Git clone](~/Downloads/GWF-Clone.jpeg "From Remote to Local")
 
 _*Inserting a horizontal separator*_
-At least 3 of these characters: - *
+At least 3 of these characters: - * or _
 ---
 * * * *
+_____
