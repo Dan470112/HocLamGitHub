@@ -24,3 +24,8 @@ This is [an example][id] of a reference-style link.
 Type `echo 'Hello World'` in your terminal. `Another phrase`
 
 ![Git clone](~/Downloads/GWF-Clone.jpeg "From Remote to Local")
+
+_*Inserting a horizontal separator*_
+At least 3 of these characters: - *
+---
+* * * *
