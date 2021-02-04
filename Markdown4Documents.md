@@ -30,3 +30,10 @@ At least 3 of these characters: - * or _
 ---
 * * * *
 _____
+
+
+_*Inserting backslah escapes*_
+
+Markdown uses many symbols to specify its syntax. If we want to write any of them without being interpreted, Markdown provides backslash escapes (\) for the following characters:
+
+\   backslash`   backtick*   asterisk_   underscore{}  curly braces[]  square brackets()  parentheses#   hash mark+   plus sign-   minus sign (hyphen).   dot!   exclamation mark
